@@ -23,13 +23,14 @@ It can:
 
 ## 🧩 Features
 
-✅ Compare two or more text files
-✅ Stop-word removal via external `stopwords.txt`
-✅ Tokenization and normalization (case + punctuation handling)
-✅ Dual similarity algorithms: **Jaccard Index** and **Cosine Similarity**
-✅ Dynamic ASCII progress bar with color output
-✅ Report generator (`plagiarism_report.txt`)
+✅ Compare two or more text files <br>
+✅ Stop-word removal via external `stopwords.txt` <br>
+✅ Tokenization and normalization (case + punctuation handling) <br>
+✅ Dual similarity algorithms: **Jaccard Index** and **Cosine Similarity** <br>
+✅ Dynamic ASCII progress bar with color output <br>
+✅ Report generator (`plagiarism_report.txt`) <br>
 ✅ Modular C architecture (functions, pointers, arrays, structures, and file handling)
+
 
 ---
 
