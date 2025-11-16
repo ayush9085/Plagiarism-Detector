@@ -1,0 +1,22 @@
+# Build files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Output reports
+output/
+
+# OS garbage
+Thumbs.db
+.DS_Store
+
+# Backup / temp files
+*.tmp
+*.log
+*.bak
+*~
